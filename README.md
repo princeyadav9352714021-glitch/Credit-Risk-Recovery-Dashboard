@@ -1,4 +1,8 @@
 # Credit Risk Recovery Dashboard
+---
+<img src="intro.gif" width="300" alt="Alt Text" />
+
+---
 
 ## Overview
 Credit Risk Recovery Dashboard is a Machine Learning-powered web application built using Streamlit. The project helps financial institutions analyze borrower risk, monitor loan recovery performance, and predict high-risk borrowers using a trained Random Forest model.
